@@ -1,13 +1,6 @@
 
 
 
-PstPassword v1.20
-Copyright (c) 2006 - 2017 Nir Sofer
-Web site: http://www.nirsoft.net
-
-
-
-Description
 ===========
 
 PstPassword is a small utility that recover lost password of Outlook .PST
@@ -194,9 +187,3 @@ be liable for any special, incidental, consequential or indirect damages
 due to loss of data or any other reason.
 
 
-
-Feedback
-========
-
-If you have any problem, suggestion, comment, or you found a bug in my
-utility, you can send a message to nirsofer@yahoo.com
